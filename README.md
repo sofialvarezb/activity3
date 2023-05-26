@@ -1,6 +1,9 @@
 # activity3
+
 Next exercises with cycles combined with the rest
-Print all the multiples of 3 that are between 1 and 100.
+
+1.Print all the multiples of 3 that are between1 and 100.
+
 2. Print the odd numbers between 0 and 100.
 3. Print the even numbers between 0 and 100.
 4. Write a Python program that prints the numbers 1 through 3 on the screen.
